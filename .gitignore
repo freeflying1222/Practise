@@ -3,3 +3,7 @@
 ################################################################################
 
 *.suo
+*.sqlite
+/.vs/Practise/v15/Server/sqlite3
+/netcore/obj
+/netcore/bin/Debug/netcoreapp2.0
