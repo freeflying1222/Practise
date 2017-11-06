@@ -4,12 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{711CF9B2-B891-4C3C-9954-729AE1775C58}"
-	ProjectSection(SolutionItems) = preProject
-		HelloWorld.txt = HelloWorld.txt
-		WhatsWrong.txt = WhatsWrong.txt
-	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore", "netcore\netcore.csproj", "{968F07D2-9C77-4930-9ADF-D53F604760BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netcore", "netcore\netcore.csproj", "{968F07D2-9C77-4930-9ADF-D53F604760BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
